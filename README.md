@@ -1,6 +1,7 @@
 🚗 Dynamic Pricing for Urban Parking Lots
 
 A real-time, intelligent pricing engine for urban parking lots using Python, Pathway and Bokeh.
+
 The model dynamically adjusts parking prices based on live demand signals including occupancy, queue length, traffic conditions and special events—delivering smooth, explainable pricing decisions in real-time.
 
 📌 Overview
