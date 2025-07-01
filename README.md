@@ -11,6 +11,7 @@ Live Bokeh Plot: Interactive visualization of parking price evolution
 
 🚀 Real-Time Pricing Logic
 The price is computed based on:
+
 Occupancy Rate
 Traffic Conditions Nearby
 Vehicle Type (2W/4W)
