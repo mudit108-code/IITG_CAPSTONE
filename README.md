@@ -11,7 +11,7 @@ This project addresses the challenges of static parking pricing in dynamic urban
 
 Real-Time Data Simulation using Pathway
 
-Live Bokeh Plot: Interactive visualization of parking price evolution
+Bokeh Plot:Visualization of parking price evolution
 
 🚀 Real-Time Pricing Logic
 
@@ -35,7 +35,7 @@ Price Smoothing Constraints:
 
 Baseline Linear Model: Adjusts prices based on occupancy
 
-Demand-Based Model: Incorporates queue length, vehicle type, traffic, and special events
+Demand-Based Model: Incorporates queue length, vehicle type, traffic and special events
 
 Advanced Real-Time Model: Powered by Pathway with bounded price constraints
 
